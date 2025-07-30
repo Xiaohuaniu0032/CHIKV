@@ -9,6 +9,6 @@ NCBI RefSeq: NC_004162.2
 
 Release Data: 2003
 
-Size(Mb): 0.01183
+Genome size: 11.8 kb
 
 https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000854045.1/
