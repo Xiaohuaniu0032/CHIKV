@@ -1,0 +1,9 @@
+#gtf-version 2.2
+#!genome-build ViralProj14998
+#!genome-build-accession NCBI_Assembly:GCA_000854045.1
+AF369024.2	Genbank	CDS	77	7498	.	+	0	gene_id "unassigned_gene_1"; transcript_id "unassigned_transcript_1"; db_xref "NCBI_GP:AAN05101.1"; gbkey "CDS"; product "nonstructural polyprotein"; protein_id "AAN05101.1"; exon_number "1"; 
+AF369024.2	Genbank	start_codon	77	79	.	+	0	gene_id "unassigned_gene_1"; transcript_id "unassigned_transcript_1"; db_xref "NCBI_GP:AAN05101.1"; gbkey "CDS"; product "nonstructural polyprotein"; protein_id "AAN05101.1"; exon_number "1"; 
+AF369024.2	Genbank	stop_codon	7499	7501	.	+	0	gene_id "unassigned_gene_1"; transcript_id "unassigned_transcript_1"; db_xref "NCBI_GP:AAN05101.1"; gbkey "CDS"; product "nonstructural polyprotein"; protein_id "AAN05101.1"; exon_number "1"; 
+AF369024.2	Genbank	CDS	7567	11310	.	+	0	gene_id "unassigned_gene_2"; transcript_id "unassigned_transcript_2"; db_xref "NCBI_GP:AAN05102.2"; gbkey "CDS"; product "structural polyprotein"; protein_id "AAN05102.2"; exon_number "1"; 
+AF369024.2	Genbank	start_codon	7567	7569	.	+	0	gene_id "unassigned_gene_2"; transcript_id "unassigned_transcript_2"; db_xref "NCBI_GP:AAN05102.2"; gbkey "CDS"; product "structural polyprotein"; protein_id "AAN05102.2"; exon_number "1"; 
+AF369024.2	Genbank	stop_codon	11311	11313	.	+	0	gene_id "unassigned_gene_2"; transcript_id "unassigned_transcript_2"; db_xref "NCBI_GP:AAN05102.2"; gbkey "CDS"; product "structural polyprotein"; protein_id "AAN05102.2"; exon_number "1"; 
